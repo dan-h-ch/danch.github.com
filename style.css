@@ -3,8 +3,16 @@
   flex-direction: row;
   justify-content: center;
   align-items: center;
+  padding-top: 100px;
 }
 
 .item {
   padding: 2px 10px;
+  width: 80px;
+  height: 80px;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
 }
